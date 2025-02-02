@@ -1,22 +1,23 @@
 h1 {
     text-align: center;
     background-color: #5c3a1e;
-    color: #d4a017;
-    padding-top: 10px;
+    color: whitesmoke;
+    padding-top: 15px;
     padding-bottom: 10px;
-    border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
 }
 
 body {
     background-color: #d4a017;
+    margin-top: -25px;
+    margin-left: -2.5px;
+    margin-right: -2.5px;
+    
 }
 
 h2 {
     color: #5c3a1e;
     margin-right: 5px;
     margin-left: 5px;
-    
 }
 
 ul {
@@ -25,32 +26,34 @@ ul {
 }
 
 div {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 240px;
     background-color: whitesmoke;
     border: 4px solid #5c3a1e;
     padding-left: 10px;
     padding-left: 10px;
     text-align: center;
+    border-radius: 25px;
+    margin : 25px;
+    background-image: url(/photos/Backgroud_egypt.jpg);
+    background-size: cover;
 }
 
 .main1 {
     display:flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     text-align: justify;
 }
 
-.main2 {
-    display:flex;
-    justify-content:space-around ;
+pre {
+    background-color: red;
+    color: whitesmoke;
+    margin-top: -23px;
+    padding: 9px;
 }
 
-.main3 {
-    display:flex;
-    justify-content:space-around ;
-}
-
-.main4 {
-    display:flex;
-    justify-content:space-around ;
+#Change {
+    text-decoration: none;
+    color: rebeccapurple;
 }
