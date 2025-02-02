@@ -12,5 +12,5 @@ Attendence:
 ![Screenshot 2025-02-03 012936](https://github.com/user-attachments/assets/f68ef1a5-5697-4537-8709-3d3d83742713)
 
 Assignments:
-![Screenshot 2025-02-03 012948](https://github.com/user-attachments/assets/55cfb9e3-dd57-493e-b41f-f10dfa1a8ec3)
-![Uploading Screenshot 2025-02-03 013000.png…]()
+![Screenshot 2025-02-03 013934](https://github.com/user-attachments/assets/c81b53c1-059b-4c11-b3da-fa91d0f69ad0)
+![Screenshot 2025-02-03 013957](https://github.com/user-attachments/assets/7c8e9528-9864-4bac-b4f5-f4a40f2e48b2)
