@@ -10,3 +10,7 @@ Home Register Page:
 Attendence:
 ![Screenshot 2025-02-03 012928](https://github.com/user-attachments/assets/649fc014-cad5-46fb-b83a-bc0b9f82b402)
 ![Screenshot 2025-02-03 012936](https://github.com/user-attachments/assets/f68ef1a5-5697-4537-8709-3d3d83742713)
+
+Assignments:
+![Screenshot 2025-02-03 012948](https://github.com/user-attachments/assets/55cfb9e3-dd57-493e-b41f-f10dfa1a8ec3)
+![Uploading Screenshot 2025-02-03 013000.png…]()
