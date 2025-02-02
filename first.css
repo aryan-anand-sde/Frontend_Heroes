@@ -1,0 +1,20 @@
+.information {
+  text-align: center;
+  color: #d4a017;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-top-left-radius: 7.5px;
+  border-top-right-radius: 7.5px;
+  background-color: #5c3a1e;
+}
+body {
+  background-color: #d4a017;
+}
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: justify;
+}
+.main div {
+  padding: 7.5px;
+}

@@ -1,0 +1,33 @@
+body {
+  background-image: url(Egypt.avif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #5c3a1e;
+  border-radius: 10px;
+}
+
+input,
+select,
+button {
+  width: 95%;
+  padding: 10px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #d4a017;
+  color: white;
+  cursor: pointer;
+}
