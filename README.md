@@ -14,4 +14,4 @@ Attendence:
 
 Assignments:
 ![Screenshot 2025-02-03 013934](https://github.com/user-attachments/assets/c81b53c1-059b-4c11-b3da-fa91d0f69ad0)
-![Screenshot 2025-02-03 013957](https://github.com/user-attachments/assets/7c8e9528-9864-4bac-b4f5-f4a40f2e48b2)
+![image](https://github.com/user-attachments/assets/28e60154-3501-45f9-9a86-326335f3092c)
